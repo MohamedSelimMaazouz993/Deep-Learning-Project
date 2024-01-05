@@ -11,6 +11,11 @@ Our Project employs facial landmarks and the eye aspect ratio to detect drowsine
 - pygame: Used for playing an audio alert when drowsiness is detected.
 - cv2: OpenCV library for computer vision.
 
+## Requirement 
+
+python : 3.11 
+Pycharm 2023.2.23
+
 ## Features
 - Real-time drowsiness detection using facial landmarks.
 - Audio alert using pygame when drowsiness is detected.
