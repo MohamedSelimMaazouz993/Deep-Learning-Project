@@ -13,8 +13,8 @@ Our Project employs facial landmarks and the eye aspect ratio to detect drowsine
 
 ## Requirement 
 
-python : 3.11 
-Pycharm 2023.2.23
+- Python : 3.11 
+- Pycharm 2023.2.23
 
 ## Features
 - Real-time drowsiness detection using facial landmarks.
