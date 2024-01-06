@@ -22,7 +22,7 @@ Our Project employs facial landmarks and the eye aspect ratio to detect drowsine
 - Saves a screenshot with a timestamp to a specified folder during an alert.
 
 ## How to Run
-
+### If You are Using Pycharm 
 1. Create a virtual environment (optional but recommended):
 
  ```bash
@@ -39,5 +39,7 @@ Start the development server:
 ```bash
 python Drowsiness_Detection.py
 ```
+### If You Want to Run It Throw CMd
+Run The "run_project.bat" it Will Install The Dependencies & Creates The "env"
 
 Stay alert and drive safely!
