@@ -15,7 +15,7 @@ Our Project employs facial landmarks and the eye aspect ratio to detect drowsine
 
 - Python : 3.11 
 - Pycharm 2023.2.23
-
+- Download Cmake for Dlib Library make sure to tick "add to env path"  [Cmake 3.28.1](https://github.com/Kitware/CMake/releases/download/v3.28.1/cmake-3.28.1-windows-x86_64.msi)
 ## Features
 - Real-time drowsiness detection using facial landmarks.
 - Audio alert using pygame when drowsiness is detected.
