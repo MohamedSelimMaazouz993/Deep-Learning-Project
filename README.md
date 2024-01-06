@@ -39,7 +39,7 @@ Start the development server:
 ```bash
 python Drowsiness_Detection.py
 ```
-### If You Want to Run It Throw CMd
+### If You Want to Run It Throw CMD
 Run The "run_project.bat" it Will Install The Dependencies & Creates The "env"
 
 Stay alert and drive safely!
